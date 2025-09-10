@@ -1,6 +1,6 @@
 Fix persistent login/logout issues in Unity Hub on Linux with KDE Plasma. 
 
-If you're using Unity Hub on Linux (especially Fedora, Arch, Ubuntu) with KDE Plasma, you may experience:
+If you're using Unity Hub on Linux (especially Fedora etc.) with KDE Plasma, you may experience:
 
 Being logged out every time you restart Unity Hub.
 No “Remember me” option.
