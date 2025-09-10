@@ -1,4 +1,4 @@
-#!/bin/bash
+!/bin/bash
 echo "Installing gnome-keyring..."
 sudo dnf install -y gnome-keyring 2>/dev/null || \
 sudo pacman -S --noconfirm gnome-keyring 2>/dev/null || \
