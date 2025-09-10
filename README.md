@@ -1,6 +1,3 @@
-It's not official fix, just personal solution.
-
-Unity Hub KDE Linux Fix
 Fix persistent login/logout issues in Unity Hub on Linux with KDE Plasma. 
 
 If you're using Unity Hub on Linux (especially Fedora, Arch, Ubuntu) with KDE Plasma, you may experience:
