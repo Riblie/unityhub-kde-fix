@@ -24,8 +24,9 @@ Desktop Environments: Primarily tested on KDE Plasma, but may work on others.
 Shell: Separate scripts for bash and zsh.
 Unity Hub: Version 3.x (tested on 3.14+).
 
-Installation & Usage:
+## Installation & Usage:
 
+```bash
 1. git clone https://github.com/Riblie/unityhub-kde-fix.git
 2. cd unityhub-kde-fix
 3. For BASH users: 
@@ -34,5 +35,4 @@ chmod +x fix-unityhub.bash
 3.1. For ZSH users:
 chmod +x fix-unityhub.zsh
 ./fix-unityhub.zsh
-MIT License
 
